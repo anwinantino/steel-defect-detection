@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+steel/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (optional — remove if you WANT dataset tracked)
+data/
+
+# Outputs
+outputs/
+
+# System
+.DS_Store
+Thumbs.db
