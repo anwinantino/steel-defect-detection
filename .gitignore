@@ -21,3 +21,19 @@ outputs/
 # System
 .DS_Store
 Thumbs.db
+
+# Roboflow cache
+.roboflow/
+
+# Data
+data/
+
+# Outputs
+outputs/
+
+# Venv
+steel/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
